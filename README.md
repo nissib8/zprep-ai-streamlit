@@ -188,26 +188,28 @@ http://localhost:8501
 ### Home Page
 
 ![Home](images/home.png)
+![Home](images/uploaded_resume.png)
 
 ### HR Questions
 
-![HR](images/hr.png)
+![HR](images/hr_questions.png)
 
 ### Technical Questions
 
-![Technical](images/technical.png)
+![Technical](images/technical_questions.png)
 
 ### Project Questions
 
-![Projects](images/projects.png)
+![Projects](images/project_basedquestions.png)
 
 ### Mock Interview
 
-![Mock Interview](images/mock_interview.png)
+![Mock Interview](images/mock_interviewtab.png)
 
 ### AI Evaluation
 
-![Evaluation](images/evaluation.png)
+![Evaluation](images/evaluation1.png)
+![Evaluation](images/evaluation2.png)
 
 ---
 
