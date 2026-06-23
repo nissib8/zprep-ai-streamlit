@@ -200,12 +200,14 @@ http://localhost:8501
 ![Technical](images/technical_questions.png)
 
 ### Project Questions
+<img width="1504" height="655" alt="project_based questions" src="https://github.com/user-attachments/assets/153465a5-a51d-4f95-867c-5dbba083f901" />
 
-![Projects](images/project_based questions.png)
+
 
 ### Mock Interview
+<img width="1513" height="700" alt="mock_interview tab" src="https://github.com/user-attachments/assets/c462b6be-6392-4f55-8e9c-c83db8be4028" />
 
-![Mock Interview](images/mock_interview tab.png)
+
 
 ### AI Evaluation
 
