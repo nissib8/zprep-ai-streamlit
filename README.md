@@ -206,6 +206,8 @@ http://localhost:8501
 
 ### Mock Interview
 <img width="1513" height="700" alt="mock_interview tab" src="https://github.com/user-attachments/assets/c462b6be-6392-4f55-8e9c-c83db8be4028" />
+<img width="1460" height="411" alt="image" src="https://github.com/user-attachments/assets/877a448f-1cda-43a0-9d5d-6458043a7a31" />
+
 
 
 
