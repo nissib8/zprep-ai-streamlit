@@ -200,11 +200,11 @@ http://localhost:8501
 
 ### Project Questions
 
-![Projects](images/project_basedquestions.png)
+![Projects](images/project_based-questions.png)
 
 ### Mock Interview
 
-![Mock Interview](images/mock_interviewtab.png)
+![Mock Interview](images/mock_interview-tab.png)
 
 ### AI Evaluation
 
